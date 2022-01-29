@@ -1,0 +1,95 @@
+#header {
+    /* margin: auto; */
+    text-align: center;
+}
+
+#board {
+    margin: auto;
+    text-align: center;
+    width: 600px;
+    height: 600px;
+    background-image: url(assets/board.jpeg);
+    background-size: 600px 600px;
+}
+
+#restart {
+    margin: auto;
+    text-align: center;
+}
+
+.cell {
+    width: 140px;
+    height: 180px;
+    border: 1px solid white;
+    background-color: white;
+    margin: 5px;
+    position: relative;
+    top: 200px;
+    text-align: top;
+    display: inline-block;
+}
+
+#position0 {
+    position: relative;
+    top: 13px;
+    left: 0px;
+}
+
+#position1 {
+    position: relative;
+    top: 13px;
+    left: 10px;
+}
+
+#position2 {
+    position: relative;
+    top: 13px;
+    left: 15px;
+}
+
+#position3 {
+    height: 165px;
+    position: relative;
+    top: 28px;
+    left: 0px;
+}
+
+#position4 {
+    width: 135px;
+    height: 165px;
+    position: relative;
+    top: 28px;
+    left: 10px;
+}
+
+#position5 {
+    width: 140px;
+    height: 165px;
+    position: relative;
+    top: 28px;
+    left: 20px;
+}
+
+#position6 {
+    width: 135px;
+    height: 165px;
+    position: relative;
+    top: 45px;
+    left: 0px;
+}
+
+#position7 {
+    width: 135px;
+    height: 165px;
+    position: relative;
+    top: 45px;
+    left: 10px;
+}
+
+#position8 {
+    width: 140px;
+    height: 165px;
+    position: relative;
+    top: 45px;
+    left: 20px;
+}
